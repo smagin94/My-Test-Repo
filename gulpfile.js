@@ -1,14 +1,11 @@
-var gulp = require('gulp'); 
-
+var gulp = require('gulp')
 var mjml = require('gulp-mjml')
 
 gulp.task('default', function() { 
 
-    gulp.src('./source/example.mjml') 
-
+    return gulp.src('./source/moqSecurityTemplate.mjml') 
     .pipe(mjml()) 
-
-    .pipe(gulp.dest('./prod/example.html ')) 
+    .pipe(gulp.dest('./prod/moqSecurityTemplate.html '))
 
 });
  
@@ -21,4 +18,4 @@ gulp.task('travel', function() {
 
     .pipe(gulp.dest('./prod/travel/travelNZ.html ')) 
 
-});
+})
