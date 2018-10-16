@@ -1,0 +1,182 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="arial,sans-serif" font-size="14px" color="#425563" line-height="18px"/>
+    </mj-attributes>
+
+    <mj-style>
+      a{color:#425563!important; font-size: 15px;}
+      a p{font-size: 14px;line-height: 21px;}
+      h3{font-size:19px; font-weight:bold;line-height:25px;}
+      h4{font-size:16px; font-weight:bold;}
+      h5{font-size:13px; font-weight:bold;}
+      .cta-banner h4{margin: 15px 0;}
+      .footer p{line-height:14px;}
+      .footer a{font-size: 11px; color:#FFF!important;}
+      .footer .footer-locations a{font-size:11px; font-weight:bold;text-decoration:none;}
+    </mj-style>
+  
+  </mj-head>
+  
+  <mj-body background-color="#E9EEF2">
+    <mj-container background-color="#E9EEF2">
+      
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-text align="right" font-size="11px">
+            <a href="#" style="font-size: 11px;">
+              Webview
+            </a>
+            &nbsp;
+            <a> </a>
+            <a href="#" style="font-size: 11px;">
+              Unsubscribe
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px">
+        <mj-column padding="0px">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-header.png" padding="0px"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFD100" padding="0px" css-class="cta-banner">
+        <mj-column background-color="#FFD100" padding="0px" vertical-align="middle">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/phone-panel.png" href="tel:1300655179" padding="10px" />
+        </mj-column>
+        <mj-column padding="0px" vertical-align="middle">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/web-panel.png" href="https://rac.com.au/travel-touring" padding="10px" />
+        </mj-column>
+        <mj-column padding="0px" vertical-align="middle">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/pin-panel.png" href="https://rac.com.au/travel-touring/find-a-travel-centre" padding="10px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFF" padding="0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-text>
+            <h3>Hi %%FNAME%%,</h3>
+            <p>Experience the wonderland of NZ with coach holiday specialist Grand Pacific Tours.</p>
+            <p>Specialising in all inclusive and value for money holidays, witness spectacular scenery in armchair comfort as your every need is taken care of. With flights included on every journey, we're sure you'll have a kiwi-rific time.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFF" padding="0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-image href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/nz-and-australia-by-cruise-and-coach?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-cruisecoach.png" padding="0px"/>
+          <mj-text>
+            <a style="text-decoration:none; color:#425563;" href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/nz-and-australia-by-cruise-and-coach?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" target="_blank">
+              <p>Depart Fremantle on a 16 night cruise aboard the luxurious Celebrity Solstice stopping at various Australian and NZ ports. Combine this with a scenic coach tour of NZ visiting iconic locations in the North & South Islands. <span style="text-decoration:underline;">View full itinerary...</span></p>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#E9EEF2" padding="8px 0px 0px 0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-image href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/solo-traveller?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-solos.png" padding="0px"/>
+          <mj-text>
+            <a style="text-decoration:none; color:#425563;" href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/solo-traveller?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" target="_blank">
+              <p>No travel partner? No worries! Designed for those who travel solo but want the convenience and value of a group. Enjoy key attractions such as the stunning Bay of Islands and a cruise across Lake Wakatipu on the TSS Earnslaw. <span style="text-decoration:underline;">View full itinerary...</span></p>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#E9EEF2" padding="8px 0px 0px 0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-image href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/nz-rail-cruise-and-coach-holiday?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-rail.png" padding="0px"/>
+          <mj-text>
+            <a style="text-decoration:none; color:#425563;" href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/nz-rail-cruise-and-coach-holiday?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" target="_blank">
+              <p>Experience the romance of 4 rail journeys, majesty of 5 scenic cruises including an overnight on Milford Sound and the luxury of coach travel. Visit all the 'best of' attractions of the North/South Islands enjoying 6 two night stays. <span style="text-decoration:underline;">View full itinerary...</span></p>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#E9EEF2" padding="8px 0px 0px 0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-image href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/festive-new-zealand?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-christmas.png" padding="0px"/>
+          <mj-text>
+            <a style="text-decoration:none; color:#425563;" href="https://rac.com.au/travel-touring/travel-offers/new-zealand-and-pacific/festive-new-zealand?utm_source=cheetahmail&utm_medium=email&utm_campaign=Travel_22Aug2018_GPT-NewZealand" target="_blank">
+              <p>Celebrate the festive season in beautiful NZ! Witness spectacular scenery and unique attractions of the North/South Islands. On Christmas Day enjoy a gourmet meal with all the trimmings and bring in the new year in Rotorua. <span style="text-decoration:underline;">View full itinerary...</span></p>
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#E9EEF2" padding="8px 0px 0px 0px">
+        <mj-column background-color="#FFF" padding="0px">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/travelnz-travelinsurance.png" padding="0px"/>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#33424d" padding="10px 0px" css-class="footer">
+        <mj-column width="450px" vertical-align="middle" padding="0px">
+          <mj-text color="#FFF" font-size="11px" padding="0px 25px">
+            <p style="margin:5px 0;">You are subscribed as <a style="color:#FFF;" href="mailto:%%EMAIL%%">%%EMAIL%% </a></p>
+            <p style="margin:5px 0;"><a style="color:#FFF;" href="#">Unsubscribe</a> from RAC Member Benefits</p>
+            <p style="margin:5px 0;">View our <a style="color:#FFF;" href="#">Privacy policy</a>  |  <a style="color:#FFF;" href="#">Contact us</a></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="60px" vertical-align="middle" padding="0px">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/social-facebook.jpg" width="45" href="https://www.facebook.com/racwa" padding="10px 0" />
+        </mj-column>
+        <mj-column width="85px" vertical-align="middle" padding="0px">
+          <mj-image src="https://cdn2.hubspot.net/hubfs/2001761/racwa-images/social-twitter.jpg" width="45" href="https://twitter.com/RACWA" padding="10px 25px 10px 0" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#33424d" padding="10px 0px" css-class="footer">
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="11px" padding="0px 0px 0px 25px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:6150 6459">Applecross <br>6150 6459</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="11px" padding="0px 0px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:6150 6454">Carousel <br>6150 6454</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="11px" padding="0px 0px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:9308 1600">Joondalup <br>9308 1600</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="10px" padding="0px 0px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:6150 6456">Mandurah <br>6150 6456</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="10px" padding="0px 0px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:6150 6468">Midland <br>6150 6468</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="10px" padding="0px 0px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:6466 2300">Morley <br>6466 2300</a>
+          </mj-text>
+        </mj-column>
+        <mj-column padding="0px">
+          <mj-text align="center" color="#FFF" font-size="10px" padding="0px 25px 0px 0px" css-class="footer-locations">
+            <a style="color:#FFF;" href="tel:9436 4830">West Perth <br>9436 4830</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#33424d" padding="0px" css-class="footer">
+        <mj-column padding="0px">
+          <mj-text color="#C5D0D3" font-size="11px" padding="0px 25px">
+            <p>*Terms and conditions apply: prices are valid ex PER and include pre paid taxes (subject to change). **27 Day Cruise & Coach Tour: Price valid ex PER based on one way Trans Tasman airfare and includes pre paid taxes. Travel to begin the Cruise in Fremantle not included in package. Saving is per couple ($200pp) and has been deducted from the advertised price. Also receive up to US$2110 bonus value which is based on US$350 onboard credit per couple. Plus the choice of either the Classic Beverage package OR an added US$150 onboard credit or Unlimited Internet on the Celebrity Solstice, travellers in the same Stateroom must select the same option. If a Solo cabin is booked the traveller will receive US$200 onboard credit. Offer can be withdrawn at any time without notice. ^Solo Travellers Highlights Tour: Saving of $200 per person is reflected in the advertised price. Twin share option is available on the Solo Tour, share with a solo traveller of the same gender and save $1430 off the tour price. Must advise at time of booking. ^^Rail, Cruise & Coach Holiday: Savings of up to $750 per couple ($375 per person) is based on selected departures in September, April and May and is reflected in the advertised prices; all other departures will save $175 per person off the brochure price. ~Festive Season Tour: Saving of $350 per couple ($175 per person) on the Festive Tour is reflected in the advertised price. Also receive a 400 page NZ Travel Guide per household. No other special offers or discounts apply. Offer varies on special group departures. Special offer for Cruise Holiday, Rail Cruise & Coach Holiday and Festive Season Holiday applies to new bookings only until 30 September 2018. Special offer for Solo Travellers Tour applies to new bookings only until 30 August 2018. Airline surcharges may apply after this date.</p>
+ 
+            <p>RAC 832 Wellington Street, West Perth, GPO BOX C140, Perth, WA 6839. ABN 17 009 164 176.</p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      
+    </mj-container>
+  </mj-body>
+</mjml>
